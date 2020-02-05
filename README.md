@@ -1,15 +1,25 @@
 以上四个文件都可以分别实现对应的功能，具体内容描述请见以下链接：
 
 【CAD算法】【计算机图形学】Bezier贝塞尔曲线生成程序(python/numpy实现)[1]
+
 https://blog.csdn.net/iwanderu/article/details/103604863
+
 【CAD算法】【计算机图形学】Coons Patch曲面生成程序(python/numpy实现)[2]
+
 https://blog.csdn.net/iwanderu/article/details/103624398
+
 【CAD核心算法】基于Laplacian Smoothing的网格mesh优化算法(python实现)[3]
+
 https://blog.csdn.net/iwanderu/article/details/103739961
+
 【CAD算法】【遗传算法】采用遗传算法优化Coons Patch曲面程序(python实现)[4]
+
 https://blog.csdn.net/iwanderu/article/details/103639677
+
 【CAD算法】基于最速下降法(梯度下降)的最短路径实现(python实现)[5]
+
 https://blog.csdn.net/iwanderu/article/details/103773956
+
 
 
 
